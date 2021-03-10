@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi everybody 👋
+## 이거 맞나? ㅎㅎ 
 
 <!--
 **Gyuchool/Gyuchool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
