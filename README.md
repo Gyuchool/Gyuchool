@@ -1,7 +1,7 @@
 ### Hi everyone 👋
 ## Intro ㅎㅎ 
 - 🌱 I’m currently learning java springboot
-- ⚡ My hobby is LOL, watch a movie, activite etc..
+- ⚡ My hobby is LOL, watching a movie etc..
 <!--
 **Gyuchool/Gyuchool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
