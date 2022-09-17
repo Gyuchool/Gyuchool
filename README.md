@@ -1,7 +1,7 @@
 ### Hi everyone 👋
 ## Intro ㅎㅎ 
 - 🌱 I’m currently learning java springboot
-- 🤔 I'm interested in test code  clean code
+- 🤔 I'm interested in test code and clean code
 - ⚡ My hobby is LOL, watching a movie, write a poem etc..
 <!--
 **Gyuchool/Gyuchool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
