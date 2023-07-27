@@ -1,7 +1,6 @@
 ### Hi everyone 👋
 ## Intro ㅎㅎ 
-- 🌱 I’m currently learning java springboot
-- 🤔 I'm interested in test code and clean code
+- 🤔 I'm interested in test code, clean code and clean architecture
 - ⚡I try to write code that can respond to changes even after a long period of time.
 - ⚡ My hobby is LOL, watching a movie, write a poem etc..
 <!--
