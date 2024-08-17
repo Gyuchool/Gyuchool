@@ -1,5 +1,5 @@
 ### Hi everyone 👋
-## Intro ㅎㅎ 
+## Intro 
 - 🤔 I'm interested in test code, clean code and clean architecture
 - ⚡I try to write code that can respond to changes even after a long period of time.
 - ⚡I read books
